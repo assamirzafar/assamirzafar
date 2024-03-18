@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...IoT, ML and AI
 - 🌱 I’m currently doing ...Computer Systems Engineering from NEDUET Katachi
 
-- 📫 How to reach me ...assamirzafar62@gmail.com
+- 📫 How to reach me assamirzafar62@gmail.com or www.systemsengineeringML.blogspot.com
 - 😄 Pronouns: ...he/him
 
 
