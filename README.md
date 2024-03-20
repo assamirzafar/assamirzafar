@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=assamirzafar)](https://github.com/ryo-ma/github-profile-trophy)
+
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
 - 👋 Hi, I’m @assamirzafar
 - 👀 I’m interested in ...IoT, ML and AI
