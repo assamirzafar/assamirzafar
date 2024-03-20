@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=@assamirzafar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=assamirzafar)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m @assamirzafar
 - 👀 I’m interested in ...IoT, ML and AI
 - 🌱 I’m currently doing ...Computer Systems Engineering from NEDUET Katachi
