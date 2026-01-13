@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently doing B>E in Computer Systems from NEDUET Karachi<br>Interested in ML, DL, ROS2, IOT and OS<br>How to reach me assamirzafar62@gmail.com
+I'm currently doing B.E in Computer Systems from NEDUET Karachi<br>Interested in ML, DL, ROS2, IOT and OS<br>How to reach me assamirzafar62@gmail.com
 
 
 ## 🌐 Socials:
